@@ -5,7 +5,7 @@
             "username": "rohan",
             "email": "rohan@gmail.com",
             "password": "rohan123",
-            "doctor": true
+            "doctor": "yes"
         }
     ],
     "appointments": [
