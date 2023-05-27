@@ -30,8 +30,7 @@
             "profession": "Web Developer",
             "skills": "HTML",
             "hourly_rate": 25,
-            "profile_picture": "profile1.jpg",
-            "isBooked": false
+            "profile_picture": "https://img.freepik.com/free-photo/half-profile-image-handsome-young-caucasian-man-with-good-skin-brown-eyes-black-stylish-hair-stubble-posing-isolated-against-blank-wall-looking-front-him-smiling_343059-4560.jpg"
         }
     ]
 }
